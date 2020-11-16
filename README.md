@@ -1,2 +1,2 @@
-# Web_Scraping_AndaluciaLab
-Sencillo web scraping a la página de Andalucía Lab para automatizar la obtención de los eventos existentes
+# Web Scraping AndaluciaLab
+Simple Andalucia Lab's web scrapping to automate the obtaining existing events outputting data to JSON. (Project in Spanish 🇪🇸)
